@@ -1,0 +1,10 @@
+D:\HK1-4\laptrinhwindown\Caro_vovanlinh\Caro_vovanlinh\obj\Debug\Caro_vovanlinh.csproj.AssemblyReference.cache
+D:\HK1-4\laptrinhwindown\Caro_vovanlinh\Caro_vovanlinh\obj\Debug\Caro_vovanlinh.FrmLinh.resources
+D:\HK1-4\laptrinhwindown\Caro_vovanlinh\Caro_vovanlinh\obj\Debug\Caro_vovanlinh.Properties.Resources.resources
+D:\HK1-4\laptrinhwindown\Caro_vovanlinh\Caro_vovanlinh\obj\Debug\Caro_vovanlinh.csproj.GenerateResource.cache
+D:\HK1-4\laptrinhwindown\Caro_vovanlinh\Caro_vovanlinh\obj\Debug\Caro_vovanlinh.csproj.CoreCompileInputs.cache
+D:\HK1-4\laptrinhwindown\Caro_vovanlinh\Caro_vovanlinh\bin\Debug\Caro_vovanlinh.exe.config
+D:\HK1-4\laptrinhwindown\Caro_vovanlinh\Caro_vovanlinh\bin\Debug\Caro_vovanlinh.exe
+D:\HK1-4\laptrinhwindown\Caro_vovanlinh\Caro_vovanlinh\bin\Debug\Caro_vovanlinh.pdb
+D:\HK1-4\laptrinhwindown\Caro_vovanlinh\Caro_vovanlinh\obj\Debug\Caro_vovanlinh.exe
+D:\HK1-4\laptrinhwindown\Caro_vovanlinh\Caro_vovanlinh\obj\Debug\Caro_vovanlinh.pdb
